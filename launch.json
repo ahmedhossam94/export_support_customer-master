@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "program": "lib/main.dart",
+            "name": "YOUR APP NAME",
+            "cwd": "/Users/mohamedabdelbaset/FlutterProjects/export_support_customer-master",
+            "type": "dart",
+            "request": "launch",
+            "flutterMode": "debug",
+            "args": [
+                // "--web-port",
+                // "8080",
+                // "--no-sound-null-safety",
+                // pass your arguments here, whatever you would type 
+                //in the terminal when you would use i.e 
+                //flutter run --no-sound-null-safety[I love null safety by the way, 
+                //but this is a common problem for people who still want to opt out of it.
+            ]
+        }
+    ],
+    "dart.flutterSdkPath": "/Users/mohamedabdelbaset/FlutterProjects/export_support_customer-master/.fvm/flutter_sdk",
+    "dart.sdkPath": "/Users/mohamedabdelbaset/FlutterProjects/export_support_customer-master/dart-sdk"
+}

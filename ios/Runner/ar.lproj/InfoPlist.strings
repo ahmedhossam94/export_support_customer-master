@@ -1,0 +1,14 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by Faisal Alkhotaifi on 18/05/2020.
+  Copyright © 2020 The Chromium Authors. All rights reserved.
+*/
+
+"NSCameraUsageDescription" = "نستخدم بيانات الكاميرا للحصول على صورة للمشكلة لمساعدتك بشكل أفضل";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "نستخدم بيانات موقعك للتحقق من توفر خدماتنا في منطقتك وللحصول على المكان الذي تريد منا زيارته";
+"NSLocationAlwaysUsageDescription" = "نستخدم بيانات موقعك للتحقق من توفر خدماتنا في منطقتك وللحصول على المكان الذي تريد منا زيارته";
+"NSLocationUsageDescription" = "نستخدم بيانات موقعك للتحقق من توفر خدماتنا في منطقتك وللحصول على المكان الذي تريد منا زيارته";
+"NSLocationWhenInUseUsageDescription" = "نستخدم بيانات موقعك للتحقق من توفر خدماتنا في منطقتك وللحصول على المكان الذي تريد منا زيارته";
+"NSPhotoLibraryUsageDescription" = "نستخدم بيانات مكتبة الصور الخاصة بك للحصول على صورة للمشكلة لمساعدتك بشكل أفضل";

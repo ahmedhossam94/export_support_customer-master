@@ -1,0 +1,14 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by Faisal Alkhotaifi on 18/05/2020.
+  Copyright © 2020 The Chromium Authors. All rights reserved.
+*/
+
+"NSCameraUsageDescription" = "We use your camera data to get a picture of the issue to be better assist you";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "We use your location data to check the availablity of our services in your area and to get the place you want us to visit";
+"NSLocationAlwaysUsageDescription" = "We use your location data to check the availablity of our services in your area and to get the place you want us to visit";
+"NSLocationUsageDescription" = "We use your location data to check the availablity of our services in your area and to get the place you want us to visit";
+"NSLocationWhenInUseUsageDescription" = "We use your location data to check the availablity of our services in your area and to get the place you want us to visit";
+"NSPhotoLibraryUsageDescription" = "We use your photo library data to get a picture of the issue to be better assist you";
